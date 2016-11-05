@@ -1,0 +1,23 @@
+# Compiled source
+*.o
+*.exe
+*.class
+*.so
+*.dll
+
+#Packages
+*.7z
+*.iso
+*.jar
+
+# Logs
+*.log
+*.sql
+
+# Debug folders
+Debug/
+
+# Eclipse Configuration
+.settings/
+.project
+.cproject
